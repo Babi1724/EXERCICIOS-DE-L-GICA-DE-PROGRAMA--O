@@ -1,0 +1,68 @@
+BÁSICO:
+1. 1.Olá, Mundo! - Escreva um programa que exiba &quot;Olá, Mundo!&quot; na tela.
+2. 2.Soma Simples - Solicite dois números ao usuário e exiba a soma deles.
+3. 3.Par ou Ímpar - Peça um número ao usuário e diga se ele é par ou ímpar.
+4. 4.Maior de Dois - Peça dois números e exiba o maior deles.
+5. Tabuada - Peça um número e exiba a tabuada dele (de 1 a 10).
+6. Conversor de Temperatura - Converta graus Celsius para Fahrenheit.
+7. Média Aritmética - Peça três números ao usuário e calcule a média.
+8. Área do Retângulo - Peça a base e altura e calcule a área.
+9. Conversor de Idade - Peça a idade em anos e exiba em meses e dias.
+10. Contagem Progressiva e Regressiva - Exiba uma contagem de 1 a 10 e depois
+de 10 a 1.
+11. Conversor de Minutos para Horas - Peça uma quantidade de minutos e
+converta para horas e minutos.
+12. Dias até o Fim do Ano - Peça uma data e calcule quantos dias faltam até o fim
+do ano.
+13. Preço por Litro de Combustível - Peça a distância e o consumo do carro,
+calculando o custo da viagem.
+14. Conversor de Segundos - Peça um valor em segundos e converta para horas,
+minutos e segundos.
+15. Comparação de Três Números - Peça três números e diga qual é o maior e
+qual é o menor.
+16. Soma dos Quadrados - Peça dois números e retorne a soma de seus quadrados.
+17. Calcular IMC - Peça peso e altura e calcule o Índice de Massa Corporal (IMC).
+18. Média Ponderada - Peça três notas e seus respectivos pesos e calcule a média
+ponderada.
+19. Conversor de Polegadas para Centímetros - Converta um valor de polegadas
+para centímetros.
+20. Raízes de uma Equação do 2º Grau - Peça os coeficientes de uma equação
+quadrática e calcule suas raízes.
+21. Idade em Semanas - Peça a idade em anos e converta para semanas.
+22. Conversor de Metros para Milímetros - Peça um valor em metros e converta
+para milímetros.
+23. Divisão com Resto - Peça dois números e exiba o quociente e o resto da divisão.
+24. Calculadora Simples - Implemente as operações básicas (+, -, *, /) com entrada
+do usuário.
+25. Número ao Quadrado e ao Cubo - Peça um número e exiba seu quadrado e seu
+cubo.
+26. Verificador de Positivo, Negativo ou Zero - Peça um número e classifique-o.
+27. Cálculo de Perímetro e Área do Círculo - Peça o raio e calcule o perímetro e a
+área.
+28. Conversor de Velocidade - Peça um valor em km/h e converta para m/s.
+29. Cálculo de Desconto Progressivo - Peça o valor de uma compra e aplique
+descontos de acordo com faixas de preço.
+30. Classificador de Idade - Peça a idade e informe se a pessoa é criança,
+adolescente, adulta ou idosa.
+31. Contagem de Pares e Ímpares - Peça 10 números e exiba quantos são pares e
+quantos são ímpares.
+
+32. Conversor de Anos para Dias - Peça um número de anos e converta para dias.
+33. Verificador de Vogais e Consoantes - Peça uma letra e informe se é vogal ou
+consoante.
+34. Conversor de Notas Escolares - Converta uma nota numérica para conceitos
+(A, B, C, D, F).
+35. Soma dos Quadrados dos Números de 1 a N - Peça um número e calcule a
+soma dos quadrados de 1 até N.
+36. Calculadora de Área de Figuras Geométricas - Permita calcular a área de
+círculo, triângulo, quadrado e retângulo.
+37. Simulador de Frete - Peça a distância e o peso do pacote para calcular o custo
+do frete.
+38. Número Divisível por 2 e 3 - Verifique se um número é divisível por 2 e por 3
+ao mesmo tempo.
+39. Conversor de Litros para Galões - Peça um valor em litros e converta para
+galões.
+40. Sistema de Pontuação de Prova - Peça a pontuação de um aluno e classifique
+como aprovado ou reprovado.
+41. Verificador de Tempo de Vida - Pergunte a idade do usuário e diga quantos
+meses, semanas e dias ele já viveu.
