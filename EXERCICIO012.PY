@@ -1,5 +1,12 @@
-#Conversor de Minutos para Horas - Peça uma quantidade de minutos e
-#converta para horas e minutos.
+#Dias até o Fim do Ano - Peça uma data e calcule quantos dias faltam até o fim
+#do ano.
+
+from datetime import date 
+data = date(input("Informe uma data: "))
 
 
-minutos = int(input("Informe os minutos: "))
+resultado = data-301
+
+print(f"falta {resultado} dias até o final do ano")
+
+
