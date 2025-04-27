@@ -5,6 +5,6 @@ distancia = float(input("informe a distancia: "))
 
 consumo = float(input("informe o consumo do carro: "))
 
-custo = consumo*distancia
+custo = consumo/distancia
 
 print(f"A distancia {distancia} mais consumo de {consumo} dá o custo de:{custo}")
