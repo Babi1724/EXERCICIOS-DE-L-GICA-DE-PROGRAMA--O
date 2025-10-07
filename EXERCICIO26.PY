@@ -1,11 +1,11 @@
 #Verificador de Positivo, Negativo ou Zero - 
-# Peça um número e classifique-o.
+# Peca um numero e classifique-o.
 
 numero = int(input("informe um numero: "))
 
 if numero > 0:
-    print(f"O número {numero} é positivo")
+    print(f"O numero {numero} e positivo")
 elif numero < 0:
-    print(f"O número {numero} é negativo")
+    print(f"O numero {numero} e negativo")
 else:
-    print("O número informado é zero")
+    print("O numero informado e zero")
